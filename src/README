@@ -14,7 +14,9 @@ open source of it to let other person can use this tool freely.
 The config file is IisRequestBarrier.ini. The end user can read IisRequestBarrier.ini to find the
 detail config information.
 
-The project is support vs2005.
+The project is support vs2005 x86. 
+
+Later I will make a project for vs2010, support x86, x64 windows.
 
 IisRequestBarrier
 ---------------------------------------------
