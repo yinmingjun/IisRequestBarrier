@@ -1,0 +1,26 @@
+/*
+ * IisRequestBarrier 's core source code.
+ * 2012.11.08: Create By Yin Mingjun - email: yinmingjuncn@gmail.com
+ * 
+ * Copyright 2012,  Yin MingJun - email: yinmingjuncn@gmail.com
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ */
+
+This is a IIS filter tool to defence request flood attack. I had writen it in 2007, and I 
+open source of it to let other person can use this tool freely.
+
+The config file is IisRequestBarrier.ini. The end user can read IisRequestBarrier.ini to find the
+detail config information.
+
+IisRequestBarrier
+---------------------------------------------
+V1:
+	1. First build of IisRequestBarrier, implement it's basic feature.
+	
+V2:
+	1. Support HOT CONFIG feature.
+	2. Support ACCESS CHANNEL's config. (For server link and proxy)
+	3. Support exclude mechanism of url match.
+

@@ -1,0 +1,7 @@
+LIBRARY      IisRequestBarrier
+
+;DESCRIPTION  'UFIDA IisRequestBarrier'
+
+EXPORTS
+    HttpFilterProc
+    GetFilterVersion
