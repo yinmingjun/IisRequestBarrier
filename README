@@ -24,3 +24,6 @@ V2:
 	2. Support ACCESS CHANNEL's config. (For server link and proxy)
 	3. Support exclude mechanism of url match.
 
+
+---------------------------------------------
+need migrate to IIS 7 and IIS 8
